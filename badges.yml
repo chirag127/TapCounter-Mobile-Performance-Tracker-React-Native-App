@@ -1,0 +1,41 @@
+# badges.yml
+
+build:
+  image: 'https://github.com/chirag127/AtomicPulse-Interactive-Counter-React-Native-App/actions/workflows/ci.yml/badge.svg?branch=main'
+  link: 'https://github.com/chirag127/AtomicPulse-Interactive-Counter-React-Native-App/actions/workflows/ci.yml'
+  markdown: '[![Build Status](https://github.com/chirag127/AtomicPulse-Interactive-Counter-React-Native-App/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/chirag127/AtomicPulse-Interactive-Counter-React-Native-App/actions/workflows/ci.yml)'
+
+coverage:
+  image: 'https://codecov.io/gh/chirag127/AtomicPulse-Interactive-Counter-React-Native-App/branch/main/graph/badge.svg?style=flat-square'
+  link: 'https://codecov.io/gh/chirag127/AtomicPulse-Interactive-Counter-React-Native-App'
+  markdown: '[![Code Coverage](https://codecov.io/gh/chirag127/AtomicPulse-Interactive-Counter-React-Native-App/branch/main/graph/badge.svg?style=flat-square)](https://codecov.io/gh/chirag127/AtomicPulse-Interactive-Counter-React-Native-App)'
+
+typescript:
+  image: 'https://img.shields.io/badge/language-TypeScript-blue.svg?style=flat-square'
+  link: 'https://www.typescriptlang.org/'
+  markdown: '[![TypeScript](https://img.shields.io/badge/language-TypeScript-blue.svg?style=flat-square)](https://www.typescriptlang.org/)'
+
+react_native:
+  image: 'https://img.shields.io/badge/framework-React_Native-61DAFB.svg?style=flat-square'
+  link: 'https://reactnative.dev/'
+  markdown: '[![React Native](https://img.shields.io/badge/framework-React_Native-61DAFB.svg?style=flat-square)](https://reactnative.dev/)'
+
+expo:
+  image: 'https://img.shields.io/badge/platform-Expo-4630EB.svg?style=flat-square'
+  link: 'https://expo.dev/'
+  markdown: '[![Expo](https://img.shields.io/badge/platform-Expo-4630EB.svg?style=flat-square)](https://expo.dev/)'
+
+license:
+  image: 'https://img.shields.io/badge/license-CC--BY--NC--4.0-lightgrey.svg?style=flat-square'
+  link: 'https://creativecommons.org/licenses/by-nc/4.0/'
+  markdown: '[![License](https://img.shields.io/badge/license-CC--BY--NC--4.0-lightgrey.svg?style=flat-square)](https://creativecommons.org/licenses/by-nc/4.0/)'
+
+github_stars:
+  image: 'https://img.shields.io/github/stars/chirag127/AtomicPulse-Interactive-Counter-React-Native-App?style=flat-square'
+  link: 'https://github.com/chirag127/AtomicPulse-Interactive-Counter-React-Native-App'
+  markdown: '[![GitHub Stars](https://img.shields.io/github/stars/chirag127/AtomicPulse-Interactive-Counter-React-Native-App?style=flat-square)](https://github.com/chirag127/AtomicPulse-Interactive-Counter-React-Native-App)'
+
+lint:
+  image: 'https://img.shields.io/badge/lint-Biome-E29765?style=flat-square&logo=biome&logoColor=black'
+  link: 'https://biomejs.dev/'
+  markdown: '[![Lint](https://img.shields.io/badge/lint-Biome-E29765?style=flat-square&logo=biome&logoColor=black)](https://biomejs.dev/)'
